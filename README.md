@@ -1,4 +1,4 @@
-![image](https://github.com/KittoLapTrinh/CourseRegistration/assets/96908923/07d20154-e663-43b6-8845-7116d3cc7237)![image](https://github.com/KittoLapTrinh/CourseRegistration/assets/96908923/3ad0ca42-fe2f-43a5-b2ad-eb5c49dcb3c0)![image](https://github.com/KittoLapTrinh/CourseRegistration/assets/96908923/d8eec4d8-a818-4bea-af22-e1e9124f94e9)# KTTKPM_Nhom36 Kiến trúc MVC
+# KTTKPM_Nhom36 Kiến trúc MVC
 
 # Database
 ![image](https://github.com/KittoLapTrinh/CourseRegistration/assets/96908923/543527d5-bf63-4060-abf4-80a6e11c7cd7)
@@ -28,6 +28,9 @@
 ![image](https://github.com/KittoLapTrinh/CourseRegistration/assets/96908923/6f0b2d8a-fba7-47a7-b06e-2fc9869f3cd8)
 ![image](https://github.com/KittoLapTrinh/CourseRegistration/assets/96908923/e86ebcaf-c2fd-4854-85f7-371c2f8f1793)
 ![image](https://github.com/KittoLapTrinh/CourseRegistration/assets/96908923/64224364-1e76-4e7c-b479-8c20af6aaeba)
+![image](https://github.com/KittoLapTrinh/CourseRegistration/assets/96908923/07d20154-e663-43b6-8845-7116d3cc7237)
+![image](https://github.com/KittoLapTrinh/CourseRegistration/assets/96908923/3ad0ca42-fe2f-43a5-b2ad-eb5c49dcb3c0)
+![image](https://github.com/KittoLapTrinh/CourseRegistration/assets/96908923/d8eec4d8-a818-4bea-af22-e1e9124f94e9)
 
 
 
